@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "CoffeeToJs: Convert file",
+    "command": "coffee_to_js_from_file"
+  },
+  {
+    "caption": "CoffeeToJs: Convert selection",
+    "command": "coffee_to_js_selected"
+  },
+  {
+    "caption": "CoffeeToJs: Convert clipboard content",
+    "command": "coffee_to_js_from_clipboard"
+  }
+]

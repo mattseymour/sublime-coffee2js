@@ -1,0 +1,14 @@
+/*
+ * Coffee to JS default settings file, 
+ * DO NOT modify this file, instead make a copy
+ * in user settings.
+ */
+
+{
+  "coffeeCommand": "coffee",
+  // inline operations, paste, code block
+  "inlineArgs": ["--no-header", "--bare"],
+  // File operation only
+  "fileArgs": ["--no-header",],
+  "debug": false,
+ }
