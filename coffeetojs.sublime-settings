@@ -10,5 +10,5 @@
   "inlineArgs": ["--no-header", "--bare"],
   // File operation only
   "fileArgs": ["--no-header",],
-  "debug": false,
+  "debug": false
  }
